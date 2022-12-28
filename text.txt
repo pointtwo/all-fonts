@@ -1,0 +1,1311 @@
+Auditoría Informática
+Informática
+AUDITORÍA
+AUDITORÍA CONCEPTOS
+AUDITORÍA CONCEPTOS
+Objetivos de la Auditoría Informática
+Clases de Auditoría
+Auditorías por su lugar de aplicación
+Auditorías por su área de aplicación
+Auditorías especializadas en áreas específicas
+Motivos para hacer una Auditoría
+Warning
+ALCANCE DE UNA AUDITORÍA INFORMÁTICA
+Otros alcances
+Limitaciones
+CAMPO DE ACCIÓN DEL AUDITOR
+CAMPO DE APLICACIÓN DE LA AUDITORIA INFORMÁTICA
+LA EVALUACIÓN ADMINISTRATIVA DEL ÁREA DE INFORMÁTICA
+LA EVALUACIÓN DE LOS SISTEMAS Y PROCEDIMIENTOS
+LA EVALUACIÓN DEL PROCESAMIENTO DE DATOS
+LA SEGURIDAD Y CONFIDENCIALIDAD DE LA INFORMACIÓN
+warning 
+Funciones y perfil del auditor informático
+¿Cuál es la función de un Auditor Informático?
+Perfil
+Auditor de TI
+CARACTERÍSTICAS DEL AUDITOR DE TI
+CARACTERÍSTICAS AUDITOR DE TI
+HABILIDADES DEL AUDITOR DE TI
+COMPETENCIAS DEL AUDITOR DE TI
+Competencia social:
+Competencia de apoyo al crecimiento:
+Competencia Personal:
+Cualidades del autor
+Técnicas del auditor
+ACTIVIDADES QUE REALIZA EL AUDITOR DE TI
+CERTIFICACIÓN DEL AUDITOR DE TI
+Deontología
+Deberes y Principios
+CÓDIGO DEONTOLÓGICO
+PRINCIPIOS DE UN AUDITOR DE TI
+PRINCIPIOS DE UN AUDITOR DE TI
+PROCESO DE AUDITORÍA INFORMÁTICA
+PLANEACIÓN DE LA AUDITORIA
+EJECUCIÓN DEL PLAN
+CONCLUSIÓN Y PREPARACIÓN DEL INFORME
+FASES DE LA AUDITORÍA INFORMÁTICA
+Fase 1: Conocimientos del Sistema
+Fase 2: Análisis de transacciones y recursos
+Fase 3:Análisis de riesgos y amenazas
+Fase 4: Análisis de controles
+Fase 5: Evaluación de Controles
+Fase 6: Informe de Auditoria
+Fase 7: Seguimiento de Recomendaciones
+Secuencias de Auditorías
+PLANEACIÓN DE LA AUDITORÍA EN INFORMÁTICA
+Gestión de riesgo
+Auditoría Informática
+Informática
+
+Es un neologismo creado en Francia en 1962 por Philippe Dreyfus. Etimológicamente se deriva del francés informatique: information + automatique para representar al concepto de “proceso de datos”.
+
+Se suele utilizar los conceptos de proceso electrónico, computadora e informática como sinónimos, pero la informática es más amplia ya que considera el total del sistema y el manejo de la información, pudiendo utilizar equipos electrónicos como una de sus herramientas.
+
+“En la informática convergen los fundamentos de las ciencias de la computación, la programación y las metodologías para el desarrollo de software, así como determinados temas de electrónica. “Se entiende por informática a la unión sinérgica del cómputo y las comunicaciones.
+AUDITORÍA
+
+Según la Real Academia Española: “Es el conjunto de conocimientos científicos y técnicas que hacen posible el tratamiento automático de la información por medio de computadoras electrónicas”
+
+
+AUDITORÍA CONCEPTOS
+
+Auditoría es la revisión independiente que realiza un auditor profesional, aplicando técnicas, métodos y procedimientos especializados, a fin de evaluar el cumplimiento de las funciones, actividades, tareas y procedimientos de una entidad administrativa, así como dictaminar sobre el resultado de dicha evaluación.
+AUDITORÍA CONCEPTOS
+
+Verificar de qué manera se están aplicando los controles en el área de actuación de la Informática. • Examen y evaluación de los procesos y del uso de los recursos que en ellos intervienen, determinado el grado de eficiencia, efectividad y economía de los sistemas de la empresa, presentando conclusiones y recomendaciones encaminadas a corregir las deficiencias existentes y mejorar los procesos.
+
+Proceso de recolección y evaluación de evidencia para: 
+
+    Determinar daños, proteger activos.
+
+    Evitar destrucción de datos, uso no autorizado, robos.
+
+    Mantener integridad de información, presentar datos completos, oportunos, confiables.
+
+    Alcanzar metas organizacionales, contribución de la función informática.
+
+Es un proceso o revisión, de carácter objetivo (independiente), crítico(evidencia), sistemático (normas), selectivo (muestras) de las políticas, normas, prácticas, funciones, procesos, procedimientos e informes relacionados con la tecnología de la información, con el fin de emitir una opinión profesional (imparcial) con respecto a:
+
+    Eficiencia en el uso de los recursos informáticos.
+
+    Validez de la información procesada.
+
+    Efectividad de los controles establecidos
+
+Objetivos de la Auditoría Informática
+
+    Realizar una evaluación con personal multidisciplinario y capacitado en el área de sistemas, con el fin de emitir un dictamen independiente sobre la razonabilidad de las operaciones del sistema y la gestión administrativa del área de informática.
+
+    Hacer una evaluación sobre el uso de los recursos financieros en las áreas del centro de información, así como del aprovechamiento del sistema computacional, sus equipos periféricos e instalaciones.
+
+    Evaluar el uso y aprovechamiento de los equipos de cómputo, sus periféricos, las instalaciones y mobiliario del centro de cómputo, así como el uso de sus recursos técnicos y materiales para el procesamiento de información.
+
+    Evaluar el aprovechamiento de los sistemas de procesamiento, sus sistemas operativos, los lenguajes, programas y paqueterías de aplicación y desarrollo, así como el desarrollo e instalación de nuevos sistemas.
+
+    Evaluar el cumplimiento de planes, programas, estándares, políticas, normas y lineamientos que regulan las funciones y actividades de las áreas y de los sistemas de procesamiento de información, así como de su personal y de los usuarios del centro de información.
+
+    Realizar la evaluación de las áreas, actividades y funciones de una empresa, contando con el apoyo de los sistemas computacionales, de los programas especiales para auditoría y de la paquetería que sirve de soporte para el desarrollo de auditorías por medio de la computadora.
+
+Clases de Auditoría
+Auditorías por su lugar de aplicación
+
+Auditoría interna
+
+Es la revisión que realiza un profesional de la auditoría, cuya relación de trabajo es directa y subordinada a la institución donde se aplicará la misma, con el propósito de evaluar en forma interna el desempeño y cumplimiento de las actividades, operaciones y funciones que se desarrollan en la empresa y sus áreas administrativas. 
+
+El objetivo final es contar con un dictamen interno sobre las actividades de toda la empresa, que permita diagnosticar la actuación administrativa, operacional y funcional de empleados y funcionarios de las áreas que se auditan.
+
+Ventajas
+
+Debido a que el auditor pertenece a la empresa, casi siempre conoce integralmente sus actividades, operaciones y áreas; por lo tanto, su revisión puede ser más profunda y con un mayor conocimiento de las actividades, funciones y problemas de la institución. 
+
+Por esta razón, el contenido de su informe es mucho más valioso. El informe que rinde el auditor, independientemente del resultado, es sólo de carácter interno y por lo tanto no sale de la empresa, ya que únicamente le sirve a las autoridades de la institución. Esta auditoría consume sólo recursos internos. 
+
+Es de gran utilidad para la buena marcha de la empresa, ya que permite detectar problemas y desviaciones a tiempo. Puede llevarse un programa concreto de evaluación en apoyo a las autoridades de la empresa, lo cual ayudará a sus dirigentes en la evaluación y la toma de decisiones.
+
+Desventajas
+
+Su veracidad, alcance y confiabilidad pueden ser limitados, debido a que puede haber cierta injerencia por parte de las autoridades de la institución sobre la forma de evaluar y emitir el informe. 
+
+En ocasiones la opinión del auditor tal vez no sea absoluta, debido a que, al laborar en la misma empresa donde realiza la auditoría, se pueden presentar presiones, compromisos y ciertos intereses al realizar la evaluación.
+
+Auditorías por su aplicación
+
+Auditoría externa
+
+Es la revisión independiente que realiza un profesional de la auditoría, con total libertad de criterio y sin ninguna influencia, con el propósito de evaluar el desempeño de las actividades, operaciones y funciones que se realizan en la empresa que lo contrata, así como de la razonabilidad en la emisión de sus resultados.
+
+Ventajas
+
+Al no tener ninguna dependencia de la empresa, el trabajo de estos auditores es totalmente independiente y libre de cualquier injerencia por parte de las autoridades d la empresa auditada. 
+
+En su realización, estas auditorías pueden estar apoyadas por una mayor experiencia por parte de los auditores externos, debido a que utilizan técnicas y herramientas que ya fueron probadas en otras empresas con características similares. 
+
+Estas auditorías tienen gran aceptación en las empresas para certificar registros contables, impuestos y resultados financieros. Además, sus dictámenes pueden ser válidos para las autoridades impositivas, y con ello pueden satisfacer requisitos de carácter legal, siempre que sean realizadas por auditores de prestigio que tengan el reconocimiento público.
+
+Desventajas
+
+La principal desventaja es que, como el auditor conoce poco la empresa, su evaluación puede estar limitada a la información que pueda recopilar. Dependen en absoluto de la cooperación que el auditor pueda obtener de parte de los auditados. 
+
+Su evaluación, alcances y resultados pueden ser muy limitados. Muchas auditorías de este tipo se derivan de imposiciones fiscales y legales que pueden llegar a crear ambientes hostiles para los auditores que las realizan. En algunos casos son sumamente costosas para la empresa, no sólo en el aspecto numerario, sino por el tiempo y trabajo adicional que representan.
+Auditorías por su área de aplicación
+
+    Auditoría financiera
+
+    Auditoría administrativa
+
+    Auditoría operacional
+
+    Auditoría integral
+
+    Auditoría gubernamental
+
+    Auditoría de sistemas
+
+Auditorías especializadas en áreas específicas
+
+    Auditoría al área médica (evaluación médico-sanitaria) 
+
+    Auditoría al desarrollo de obras y construcciones (evaluación de ingeniería) 
+
+    Auditoría fiscal 
+
+    Auditoría laboral 
+
+    Auditoría de proyectos de inversión
+
+    Auditoría a la caja chica o caja mayor (arqueos)
+
+    Auditoría al manejo de mercancías (inventarios)
+
+    Auditoría ambiental 
+
+    Auditoría de sistemas computacionales
+        Auditoría informática
+        Auditoría con la computadora
+        Auditoría sin la computadora
+        Auditoría a la gestión informática
+        Auditoría al sistema de cómputo
+        Auditoría alrededor de la computadora 
+        Auditoría de la seguridad de sistemas computacionales
+        Auditoría a los sistemas de redes
+        Auditoría integral a los centros de Cómputo 
+        Auditoría ISO-9000 a los sistemas computacionales
+        Auditoría outsourcing 
+        Auditoría ergonómica de sistemas computacionales Auditoría de TI - Ciclo A
+
+Motivos para hacer una Auditoría
+
+    Obtienes conocimiento y opinión experta de una persona externa, independiente, y que ve las cosas sin estar “contaminado” por del día a día de tu empresa. Además, si esa persona es experta en aquello que audita, aporta muchas ideas, ya que normalmente los auditores han visto decenas de empresas y decenas de maneras de afrontar un problema.
+
+    Fijas un hito en el tiempo (anual, semestral, etc.) para tener listas las mejoras. Sabemos que tenemos cosas que mejorar pero muchas veces las vamos postergando por las cosas urgentes que van saliendo. Cuando fijamos una auditoría, fuerzas a todo el equipo para tener las mejoras antes de la fecha de la auditoría.
+
+    Motivación. Sí, porque aunque la gente se asuste frente a una auditoría, no hay nada más motivador que superarla, y que alguien externo y objetivo reconozca el trabajo bien hecho. Esto refuerza la confianza y motivación de tu equipo. 
+
+    Reconocimiento. Ya que si tu auditor y/o organización que te audita tienen nombre en el sector, superar una auditoría es un reconocimiento para tu empresa y un valor añadido que mostrar a tus clientes.
+
+Warning
+
+Indagar sobre:
+
+    Campo de la Auditoria Informática
+
+    Perfil del Auditor Informático
+
+ALCANCE DE UNA AUDITORÍA INFORMÁTICA
+
+El alcance ha de definir con precisión el entorno y los límites en que va a desarrollarse la auditoria informática, se complementa con los objetivos de ésta. El alcance ha de figurar expresamente en el Informe Final, de modo que quede perfectamente determinado no solamente hasta que puntos se ha llegado, sino cuales materias fronterizas han sido omitidas.
+
+El alcance de la auditoría expresa los límites de la misma. Debe existir un acuerdo muy preciso entre auditores y clientes sobre las funciones, las materias y las organizaciones a auditar. El alcance ha de figurar expresamente en el Informe final, de modo que quede perfectamente determinado no solamente hasta que puntos se ha llegado, sino cuales materias fronterizas han sido omitidas.
+
+    Ejemplo: ¿Se someterán los registros grabados a un control de integridad exhaustivo?
+
+    ¿Se comprobará que los controles de validación de errores son adecuados y suficientes?
+
+Definir el alcance de la auditoría: Es describir la extensión y los límites de la auditoría, tales como ubicación, unidades de la organización, actividades y procesos a ser auditados, así como el periodo de tiempo cubierto por la auditoría.
+
+    Diseñar un manual de seguimiento para el auditor, en el que se identifiquen los principales aspectos que deben ser verificados y las particularidades fundamentales que garanticen que la auditoria aplicada es efectiva. 
+
+    Proponer un mecanismo de evaluación que permita calificar el resultado de la auditoría. Este mecanismo debe estar compuesto de fórmulas que ponderen o valoren cada criterio y debe contener rangos de evaluación de la auditoría. 
+
+    Identificar el perfil y experiencia que deben tener la firma y los miembros del equipo consultor que llevará a cabo las auditorías.
+
+La definición de los alcances de la auditoria compromete el éxito de la misma.
+Otros alcances
+
+    La auditoría abarcará solamente el área de tecnología e informática de la empresa 
+
+    Se examinará detalladamente los registros ingresados al sistema, brindando mayor integridad, confidencialidad y confiabilidad de la información. 
+
+    Se comprobará si la empresa posee un sistema para la comprobación y reparación de errores y si este los enmendada de manera eficiente
+
+Limitaciones
+
+    Distancia entre la empresa a auditar y nuestro equipo de trabajo la cual dificulta hacer el proceso auditable. 
+
+    Poco tiempo para realizar la auditoría exhaustiva ya que solo se tiene un periodo de tres meses para realizarla, además de retrasos en el proceso o por falta de colaboración por parte de la empresa en el lapso establecido.
+
+    Negativa de la empresa a entregarnos determinada información o a dejarnos practicar procedimientos con la cual concluiríamos con nuestra auditoría. 
+
+    Destrucción accidental de documentación o registros necesarios para la auditoría. 
+
+    El criterio profesional de miembros de la empresa o auditores internos pueden contradecir el proceso en el cual se desarrolla nuestra auditoría.
+
+CAMPO DE ACCIÓN DEL AUDITOR
+
+La evaluación administrativa del área de trabajo. 
+
+Evaluar los sistemas, procedimientos y de la eficiencia que se tiene en el uso de la información. Una evaluación eficiente y eficaz con la que se trabaja. 
+
+Evaluación del proceso de los datos, los sistemas y los equipos de cómputo con todo lo que implica (software, redes, comunicaciones, hardware, bases de datos, etc.). 
+
+Confidencialidad y la seguridad de toda la información. 
+
+Aspectos legales de todos los sistemas.
+CAMPO DE APLICACIÓN DE LA AUDITORIA INFORMÁTICA
+
+    La evaluación administrativa del área de informática
+
+    La evaluación de los sistemas y procedimientos 
+
+    La evaluación del procesamiento de datos. 
+
+    La seguridad y confidencialidad de la información
+
+LA EVALUACIÓN ADMINISTRATIVA DEL ÁREA DE INFORMÁTICA
+
+    Los objetivos del departamento, dirección o gerencia. 
+
+    Metas, planes, políticas y procedimientos de procesos electrónicos estándares. 
+
+    Organización del área y su estructura orgánica. 
+
+    Funciones y niveles de autoridad y responsabilidad del área de procesos electrónicos. 
+
+    Integración de los recursos materiales y técnicos. 
+
+    Dirección. 
+
+    Costos y controles presupuestales. 
+
+    Controles administrativos del área de procesos electrónicos
+
+LA EVALUACIÓN DE LOS SISTEMAS Y PROCEDIMIENTOS
+
+    Evaluación del análisis de los sistemas y sus diferentes etapas. 
+
+    Seguridad física y lógica de los sistemas. 
+
+    Evaluación del diseño lógico del sistema. 
+
+    Evaluación del desarrollo físico del sistema. 
+
+    Facilidades para la elaboración de los sistemas. 
+
+    Control de proyectos. 
+
+    Control de sistemas y programación. 
+
+    Instructivos y documentación. 
+
+    Formas de implantación. 
+
+    Confidencialidad de los sistemas. 
+
+    Controles de mantenimiento y forma de respaldo de los sistemas. 
+
+    Utilización de los sistemas. 
+
+    Prevención de factores que puedan causar contingencias; seguros y recuperación en caso de desastre. 
+
+    Productividad. 
+
+    Derechos de autor y secretos industriales.
+
+LA EVALUACIÓN DEL PROCESAMIENTO DE DATOS
+
+    Controles de los datos fuente y manejo de cifras de control. ✓ Control de operación. 
+
+    Control de salida. 
+
+    Control de asignación de trabajo.
+
+    Control de medios de almacenamiento masivo. 
+
+    Control de otros elementos de cómputo. 
+
+    Control de medios de comunicación. 
+
+    Orden en el centro de cómputo.
+
+LA SEGURIDAD Y CONFIDENCIALIDAD DE LA INFORMACIÓN
+
+    Seguridad física y lógica. 
+
+    Confidencialidad.
+
+    Respaldos. 
+
+    Seguridad del personal. 
+
+    Seguros.
+
+    Seguridad en la utilización de los equipos.
+
+    Plan de contingencia y procedimiento de respaldo para casos de desastre. 
+
+     Restauración de equipos y de sistemas.
+
+warning 
+
+Indagar sobre
+
+    Certificaciones de auditoria de TI
+
+Funciones y perfil del auditor informático
+¿Cuál es la función de un Auditor Informático?
+
+    El auditor Informático debe revisar la seguridad, el control interno, la efectividad, la gestión del cambio y la integridad de la información. 
+
+    El auditor debe revisar los controles y evaluar los resultados de su revisión para determinar las áreas que requieran correcciones omejoras. 
+
+    Así como la verificación del control interno, tanto de las aplicaciones como de los sistemas informáticos, centrales y periféricos. 
+
+    Debe hacer un análisis de la integridad, fiabilidad y certeza de la información a través del análisis de las aplicaciones.
+
+    Auditar elriesgo operativo de los circuitos de información. 
+
+    Hacer una verificación del nivel de continuidad de las operaciones (conjuntamente con los auditoresfinancieros). 
+
+    Analizar el Estado del arte tecnológico de la instalación revisada y de aclarar las consecuencias empresariales que un desfase tecnológico pueda acarrear. 
+
+    Debe dar un diagnóstico sobre el grado de cobertura que dan las aplicaciones a las necesidades estratégicas y operativas de información de la organización. 
+
+    Algo muy importante que se debe enfatizar es que el auditor tiene la obligación de convertirse un poco en consultor y en ayuda del auditado, dándole ideas de cómo establecer procedimientos de seguridad, control interno y eficacia ymedición delriesgo empresarial.
+
+Perfil
+
+El perfil laboral o profesional es la descripción clara del conjunto de capacidades y competencias que identifican la formación de una persona para encarar responsablemente las funciones y tareas de una determinada profesión o trabajo. 
+
+    Un perfil profesional bien elaborado puede marcar la diferencia respecto a otros /as candidatos/as
+
+Auditor de TI
+
+El auditor informático debe ser una persona con un alto grado de calificación técnica y al mismo tiempo estar integrado en las corrientes organizativas empresariales que imperan hoy en día. Un auditor de sistemas de información combina las habilidades analíticas de un auditor con la experiencia tecnológica de un profesional de TI.
+CARACTERÍSTICAS DEL AUDITOR DE TI
+
+Además debe contemplar en su formación básica una mezcla de conocimientos de auditoria financiera y de informática general en cuanto a: 
+
+    Desarrollo Informático: Gestión de proyectos y del ciclo de vida de un proyecto de desarrollo. 
+
+    Gestión del dpto. de sistemas. 
+
+    Análisis de riesgos en un entorno informático.
+
+    Sistema operativo.
+
+    Telecomunicaciones
+
+    Redes locales.
+
+    Seguridad física.
+
+    A estos conocimientos básicos se les deberá añadir una especialización en función de la importancia económica que distintos componentes financieros puedan tener en un entorno empresarial
+
+CARACTERÍSTICAS AUDITOR DE TI
+
+    Debe conocer técnicas de administración de empresas y de cambio, ya que las recomendaciones y soluciones que aporte deben estar alineadas a los objetivos de la empresa y a los recursos que se poseen
+
+    El auditor informático debe tener siempre el concepto de Calidad Total, este hará que sus conclusiones y trabajo sea recocido como un elemento valioso dentro de la organización y que los resultados sean más reconocidos de forma positiva por ella.
+
+Debe poseer además de conocimientos de normativas metodologías, estándares y legislación vigente.
+
+    Normativas y estándares de seguridad TI, normas ISO,COBIT, ITIL 
+
+    Técnica ometodología de auditoria informática 
+
+    Regulación legal 
+
+    Metodologías de análisis de riesgo
+
+    Mejoras practicas ITIL •Conocimientos propios del sector
+
+HABILIDADES DEL AUDITOR DE TI
+
+Las habilidades y destrezas que pueda tener un auditor, harán que consiga desenvolverse con naturalidad dentro de su trabajo y sepa enfrentar con mayor facilidad obstáculos que se encuentre a la hora de desarrollar su trabajo. Entre esas habilidades que deben tener se pueden nombrarlas siguientes:
+
+    Actitud positiva 
+
+    Saber escuchar 
+
+    Mente analítica 
+
+    Capacidad de negociación
+
+    Iniciativa
+
+    Facilidad de trabajaren equipo, etc.
+
+COMPETENCIAS DEL AUDITOR DE TI
+
+La ejecución del trabajo en un auditor, puede estar destinado como auditor interno o externo. El auditor interno se encuentra como parte de la organización en gestión, y en donde tendrá un papel importante ya que deberá ser capaz de responder retos de acuerdo a la visión de la organización. En el caso de un auditor externo su participación es valiosa ya que tiene una apreciación objetiva de los hechos además de estar limitados en el tiempo de realización de la auditoria.
+Competencia social:
+
+    Trabajo en equipo: capacidad para desempeñar un rol dentro de un equipo de trabajo, con responsabilidad y cooperación. 
+
+    Comunicación: capacidad de informar, recibir información y trasmitir una idea claramente, tanto a nivel escribo como verbal. 
+
+    Resolución de problemas: análisis y toma de decisiones en situaciones no resueltas.
+
+Competencia de apoyo al crecimiento:
+
+    Análisis:Capacidad de ver diferentes partes o aspectos de unamisma información. 
+
+    Síntesis: capacidad de llegar a una conclusión tras análisis de una serie de datos
+
+Competencia Personal:
+
+    Inteligencia emocional: aptitudes para controlar las emociones dentro de las relaciones sociales.
+
+    Integridad: coherencia en las actitudes e ideas trasmitidas.
+
+    Motivación: auto-motivación para desempeñar un trabajo con responsabilidad y entusiasmo
+
+Cualidades del autor
+
+    Analítico
+
+    Observador
+
+    Imparcial
+
+    Discreto
+
+    Independiente
+
+Técnicas del auditor
+
+    Comparación de programas:
+        Técnica empleada para realizar una comparación de código entre la versión de un programa en ejecución y la versión de un programa piloto, la cual ha sido alterada en forma indebida para encontrar diferencias.
+
+    Mapeo y rastreo de programas:
+        Esta técnica utiliza un software especializado, el cual permite analizar los programas en ejecución, indicando el número de veces que cada línea de código es procesada y las de las variables de memoria que estuvieron presentes.
+
+    Análisis de bitácoras:
+        Técnica para evaluar los tipos de bitácoras, sea en forma manual o por medio de programas especializados, tales como bitácoras de fallas del equipo, bitácoras de accesos no autorizados, bitácoras de uso de recursos, bitácoras de procesos ejecutados
+
+    Simulación paralela:
+        Técnica muy utilizada que consiste en desarrollar programas o módulos que simulen a los programas de un sistema en producción. El objetivo es procesar los dos programas o módulos de forma paralela e identificar diferencias entre los resultados de ambos.
+
+    Datos de prueba integrados:
+        Se utiliza para verificar que los procedimientos de control, incluidos los programas de una aplicación, funcionen correctamente. Los datos de prueba consisten en la preparación de una serie de transacciones, las cuales contienen tanto datos correctos como datos erróneos predeterminados.
+
+    Datos de prueba:
+        Se utiliza para verificar que los procedimientos de control, incluidos los programas de una aplicación, funcionen correctamente. Los datos de prueba consisten en la preparación de una serie de transacciones, las cuales contienen tanto datos correctos como datos erróneos predeterminados.
+
+    Análisis de código de programas:
+        Técnica usada para analizar los programas de una aplicación. El análisis puede efectuarse en forma manual.
+
+ACTIVIDADES QUE REALIZA EL AUDITOR DE TI
+
+    Planificarlas actividades de auditoria. 
+
+    Consensuar un cronograma en el auditado o cliente. 
+
+    Solicitar y analizar documentación, con objeto de emitir una opinión. 
+
+    Análisis de datos a través de herramientas y sintesis de conclusiones 
+
+    Trabajos de campo, entrevistas y revisiones in-situ
+
+CERTIFICACIÓN DEL AUDITOR DE TI
+
+Una certificación para auditores tiene que ser respaldad por la Asociación de Control y Auditoría de Sistemas de Información (ISACA) (Information Systems Audit and Control Association). Los candidatos deben cumplir con los requisitos establecidos porla ISACA.
+
+    Desarrollar y mantener una herramienta que pueda ser utilizada para evaluar las competencias de los individuos al realizar auditorías de sistemas. 
+
+    Proveer una herramienta motivacional para los auditores de sistemas de información para mantener sus habilidades, y monitorizar la efectividad de los programas de mantenimiento.
+
+CISA: (Certified Information Systems Auditor en español Auditor Certificado de Sistemas de Información) es una de las certificaciones más valoradas en las empresas. Creada por ISACA, esta certificación sigue operativa desde 1978 y exige contar con una experiencia profesional mínima de cinco años en Auditoría, Control y/o Seguridad de Sistemas de Información para obtenerla, o dos años de experiencia si posee una carrera superior, o una técnica y un máster.
+
+La ISO/IEC 27001: enfocada en seguridad de la información, especifica los requisitos necesarios para establecer, implantar, mantener y mejorar un Sistema de Gestión de la Seguridad de la Información (SGSI).
+
+CISM: (siglas de Certified Information Security Manager en español Gerente Certificado de Seguridad de la Información también de ISACA, se apoya en la Norma ISO 17024:2003 (al igual que el CISA) y a diferencia de la anterior, esta si se centra exclusivamente en la administración de seguridad de la información.
+
+CRISC: (siglas deCertified Risk & Information System Control en español Control Certificado de Riesgos y Sistemas de Información. ). Es una certificación de ISACA creada en 2010, y destinada a reconocer las capacidades profesionales para diseñar, implementar y mantener sistemas de información para mitigar riesgos.
+Deontología
+
+Parte de la ética que trata de los deberes y principios que afectan a una profesión.
+Deberes y Principios
+
+Deberes: El término deberes hace referencia a las actividades, actos y circunstancias que implican una determinada obligación moral o ética. 
+
+Los principios: son reglas o normas que orientan la acción de un ser humano.
+CÓDIGO DEONTOLÓGICO
+
+Parte Debe tenerse en cuenta que todo código deontológico, se entiende como un conjunto de preceptos que establecen los deberes exigibles a aquellos profesionales que ejerciten una determinada actividad, que tiene como finalidad la de incidir en sus comportamientos profesionales estimulando que estos se ajusten a determinados principios morales que deben servirles de guía.
+PRINCIPIOS DE UN AUDITOR DE TI
+
+Los principios deontológicos aplicables a los auditores de TI, deben estar en consonancia con el resto de profesionales. Así mismo con los principios deontológicos adoptados por diferentes colegios y asociaciones profesionales de nuestro entorno socio-cultural.
+PRINCIPIOS DE UN AUDITOR DE TI
+
+    Principio de calidad: El auditor deberá prestar servicios con los medios a su alcance. El auditor debe estar plenamente capacitado para la realización de la auditoría encomendada. 
+
+    Principio de cautela: El auditor debe evitar que el auditado se embarque en proyectos de futuro fundamentados en intuiciones sobre la evolución de las nuevas tecnología de la información.
+
+    Principio de comportamiento profesional: Exige al auditor una seguridad en sus conocimientos técnicos y una clara percepción de sus carencias (acudiendo a expertos si necesario) dejando constancia de esa circunstancia y reflejando en forma diferenciada, en sus informes y dictámenes, las opiniones y conclusiones propias y las emitidas por los misma. Debe guardar un escrupuloso respeto por la política de la empresa qua audita.
+
+     Principio de concentración en el trabajo: El auditor deberá evitar que un exceso de trabajo supere sus posibilidades de concentración y precisión en cada una de las tareas. Nunca copiar conclusiones de otros informes de auditorías pasadas por la acumulación de trabajo.
+
+    Principio de confianza: El auditor deberá facilitar e incrementar la confianza del auditado en base a una actuación de transparencia en su actividad profesional.
+
+    Principio de criterio propio: El auditor deberá actuar con criterio propio y no permitir que este subordinado al de otros profesionales.
+
+    Principio de discreción: El auditor deberá mantener una cierta discreción en la divulgación de datos.
+
+    Principio de economía: El auditor deberá proteger los derechos económicos del auditado evitando generar gastos innecesarios. 
+
+    Principio de formación continuada: Impone al auditor la obligación de estar en contınua formación.
+
+    Principio de fortalecimiento y respeto a la profesión: Los auditores han de cuidar del valor de trabajo realizado y de las conclusiones obtenidas. 
+
+    Principio de independencia: El auditor debe exigir una total autónoma e independencia en su trabajo. 
+
+    Principio de información suficiente: Obliga al auditor aportar en forma clara, precisa e inteligible para el auditado la información.
+
+    Principio de integridad moral: Obliga al auditor a ser honesto, leal y diligente en el desempeño de su misión, a ajustarse a las normas morales, de justicia y probidad, y a evitar participar en actos de corrupción personal o a terceras personas.
+
+    Principio de legalidad: El auditor deberá evitar utilizar sus conocimientos para facilitar, a los auditados o ha terceras personas, la contravención de la legalidad vigente
+
+    Principio de libre competencia: Exige que el ejercicio de la profesión se realice en el marco de la libre competencia.
+
+    Principio de no discriminación: El auditor en su actuación antes, durante y después de la auditoría, deberá evitar inducir, participar o aceptar situaciones discriminatorias de ningún tipo.
+
+    Principio de no injerencia: El auditor deberá evitar injerencias en los trabajos de otros profesionales, respetar su labor y eludir hacer comentarios que pudieran interpretarse como despreciativos de la misma o provocar cierto desprestigio de su calificación profesional. 
+
+    Principio de precisión: Exige del auditor la no conclusión de su trabajo hasta estar convencido de la viabilidad de sus propuestas.
+
+    Principio de secreto profesional: La confidencia y la confianza son características esenciales de las relaciones entre el auditor y el auditado, e imponen al primero la obligación de guardar en secreto los hechos e informaciones que conozca en el ejercicio de su actividad profesional.
+
+    Principio de veracidad: El auditor en sus comunicaciones con el auditado deberá tener siempre presente la obligación de asegurar la veracidad de sus manifestaciones con los límites impuestos por los deberes de respeto, corrección y secreto.
+
+    Principio de servicio público: Incitar al auditor a hacer lo que esté en su mano y sin perjuicio de los intereses de su cliente, para evitar daños sociales como los que pueden producirse en los casos en que, durante la ejecución de la auditoría, descubra elementos de software dañinos (virus) que puedan propagarse a otros sistemas informáticos diferentes al auditado.
+
+PROCESO DE AUDITORÍA INFORMÁTICA
+PLANEACIÓN DE LA AUDITORIA
+
+    Identificar el origen de la auditoría.
+
+    Realizar una visita preliminar al área que será evaluada. • Establecerlos objetivos de la auditoría. 
+
+    Determinarlos puntos que serán evaluados en la auditoría. • Elaborar planes, programas y presupuestos para realizar la auditoría. 
+
+    Identificar y seleccionar los métodos, herramientas, instrumentos y procedimientos necesarios para la auditoría. 
+
+    Asignar los recursos y sistemas computacionales para la auditoría.
+
+EJECUCIÓN DEL PLAN
+
+    Realizarlas acciones programadas para la auditoría.
+
+    Aplicarlos instrumentos y herramientas para la auditoría. 
+
+    Identificar y elaborar los documentos de oportunidades de mejoramiento encontradas.
+
+    Elaborar el dictamen preliminar y presentarlo a discusión. 
+
+    Integrar el legajo de papeles de trabajo de la auditoría
+
+CONCLUSIÓN Y PREPARACIÓN DEL INFORME
+
+    Analizarla información y elaborar un informe de situaciones detectadas. 
+
+    Elaborar el Dictamen final. 
+
+    Presentar el informe de auditoría.
+
+FASES DE LA AUDITORÍA INFORMÁTICA
+Fase 1: Conocimientos del Sistema
+
+    Aspectos Legales y Políticas Internas.
+
+    Sobre estos elementos está construido el sistema de control y por lo tanto constituyen el marco de referencia para su evaluación.
+
+    Características del Sistema Operativo.
+        Organigrama del área que participa.
+        Manual de funciones de las personas que participan en los procesos del sistema.
+        Informes de auditoría realizadas anteriormente.
+
+    Características de la aplicación de computadora.
+        Manual técnico de la aplicación del sistema.
+        Funcionarios(usuarios) autorizados para administrarla aplicación.
+        Equipos utilizados en la aplicación de computadora.
+        Seguridad de la aplicación (claves de acceso).
+        Procedimientos para generación y almacenamiento de los archivos de la aplicación.
+
+Fase 2: Análisis de transacciones y recursos
+
+    Definición de las transacciones.
+
+    Dependiendo del tamaño del sistema, las transacciones se dividen en procesos y estos en subprocesos. La importancia de las transacciones deberá ser asignada con los administradores.
+
+    Análisis de las transacciones
+        Establecer el flujo de los documentos.
+            En esta etapa se hace uso de los flujo-gramas ya que facilita la visualización del funcionamiento y recorrido de los procesos.
+
+    Análisis de los recursos
+        Identificar y codificar los recursos que participan en el sistema
+
+    Relación entre transacciones y recursos
+
+Fase 3:Análisis de riesgos y amenazas
+
+    Identificación de riesgos
+        Daños físicos o destrucción de los recursos.
+        Pérdida por fraude o desfalco.
+        Extravío de documentos fuente, archivos o informes.
+        Robo de dispositivos o medios de almacenamiento.
+        Interrupción de las operaciones del negocio.
+        Pérdida de integridad de los datos.
+        Ineficiencia de operaciones.
+        Errores.
+
+    Identificación de las amenazas
+        Amenazas sobre los equipos.
+        Amenazas sobre documentos fuente.
+        Amenazas sobre programas de aplicaciones.
+
+    Relación entre recursos/amenazas/riesgos
+
+    La relación entre estos elementos deberá establecerse a partir de la observación de los recursos en su ambiente real de funcionamiento..
+
+Fase 4: Análisis de controles
+
+    Codificación de controles
+
+    Los controles se aplican a los diferentes grupos utilizadores de recursos, luego la identificación de los controles debe contener una codificación la cual identifique el grupo al cual pertenece el recurso protegido.
+
+    Relación entre recursos/amenazas/riesgos
+
+    La relación con los controles debe establecerse para cada tema (Rec/Amz/Rie) identificado. Para cada tema debe establecerse uno o más controles.
+
+    Análisis de cobertura de los controles requeridos
+
+    Este análisis tiene como propósito determinar si los controles que el auditor identificó como necesarios proveen una protección adecuada de los recursos.
+
+Fase 5: Evaluación de Controles
+
+    Objetivos de la evaluación
+        Verificarla existencia de los controles requeridos.
+        Determinarla operatividad y suficiencia de los controles existentes.
+
+    Plan de pruebas de los controles
+        Incluye la selección del tipo de prueba a realizar.
+        Debe solicitarse al área respectiva, todos los elementos necesarios de prueba.
+
+    Pruebas de controles
+
+    Análisis de resultados de las pruebas
+
+Fase 6: Informe de Auditoria
+
+    Informe detallado de recomendaciones
+
+    Evaluación de las respuestas
+
+    Informe resumen para la alta gerencia
+
+    Este informe debe prepararse una vez obtenidas y analizadas las respuestas de compromiso de las áreas.
+        Introducción: objetivo y contenido del informe de Auditoría.
+        Objetivos de la auditoría.
+        Alcance: cobertura de la evaluación realizada.
+        Opinión: con relación a la suficiencia del control interno del sistema evaluado.
+        Hallazgos.
+        Recomendaciones.
+
+Fase 7: Seguimiento de Recomendaciones
+
+    Informes del seguimiento
+
+    Evaluación de los controles implantados
+        Fin de la sesión.
+        Revisión.
+        Evaluación.
+        Controles y las Medidas de Seguridad que se Aplican a los Recursos de un Sistema de Información.
+        Auditoría Informática.
+        Objetivos
+
+Secuencias de Auditorías
+
+    Sujeto de la auditoría
+        Identificar el área que será auditada
+
+    Objetivo de la Auditoría
+        Identificar el propósito de la auditoría.
+
+    Alcance de la Auditoría
+        Identificar los sistemas, funciones o unidades específicos de la organización que serán incluidos en la revisión.
+
+    Planificación de la Auditoría
+        Identificar las habilidades y los recursos técnicos necesarios. 
+        Identificar las fuentes de información para la prueba o examen, como diagramas de flujo funcionales.
+        Identificar las localidades o instalaciones que serán Auditadas.
+        Desarrollar un plan de comunicaciones al comienzo de cada compromiso que describa con quien comunicarse, cuando, con qué frecuencia y por qué motivos.
+
+    Procedimientos de Auditoría y pasos para recolección de datos
+        Identificar y seleccionar el enfoque de Auditoría para verificar y comprobar los controles.
+        Identificar una lista de individuos que serán entrevistados identificar y obtener las políticas, estándares y directrices departamentales para realizar la revisión.
+        Desarrollar herramientas y metodología de auditoría para probar y verificar el control.
+
+    Procedimientos para evaluar los resultados de la prueba o revisión
+        Identificar métodos (Incluyendo herramientas) para realizar la evaluación.
+        Identificar criterios para evaluar la prueba.
+        Identificar medios y recursos para confirmar que la evaluación fue precisa.
+
+    Procedimientos para las comunicaciones con la gerencia
+        Determinar la frecuencia de la comunicación.
+        Preparar la documentación para el reporte final.
+
+    Preparación del reporte de Auditoría
+        Revelar los procedimientos de seguimiento de la revisión.
+        Revelar los procedimientos para evaluar/probar la eficacia y efectividad operacional.
+        Revelar los procedimientos para probar los controles.
+        Revisar y evaluar la calidad de los documentos, las políticas y procedimientos
+
+
+PLANEACIÓN DE LA AUDITORÍA EN INFORMÁTICA
+
+QUE ES LA PLANEACIÓN DE LA AUDITORÍA INFORMÁTICA
+
+Es el proceso que sigue una serie de pasos previos que permitirán dimensionar el tamaño y características del área dentro del organismo a auditar, sus sistemas, organización y equipo. Determinar el número y características del personal de auditoría, las herramientas necesarias, el tiempo y costo, así como definir los alcances de la auditoría para, en caso necesario, poder elaborar el contrato de servicios.
+
+DOCUMENTO D E PLANEACIÓN DE LA AUDITORÍA INFORMÁTICA
+
+La planeación de la auditoría deberá ser documentada e incluirá:
+• El establecimiento de los objetivos y el alcance del trabajo.
+• La obtención de información de apoyo sobre las actividades que se auditarán.
+• La determinación de los recursos necesarios para realizar la auditoría.
+• El establecimiento de la comunicación necesaria con todos los que estarán involucrados en la auditoría.
+• La realización, en la forma más apropiada, de una inspección física para familiarizarse con las actividades y controles a auditar, así como identificación de las áreas en las que se deberá hacer énfasis al realizar la auditoría y promover comentarios y la promoción de los auditados.
+• La preparación por escrito del programa de auditoría.
+• La determinación de cómo, cuándo y a quien se le comunicarán los resultados de la auditoría.
+
+DOCUMENTO D E PLANEACIÓN DE LA AUDITORÍA INFORMÁTICA
+
+    La obtención de la aprobación del plan de trabajo de la auditoría.
+    • En el caso de la auditoría en informática, la planeación es fundamental,
+    pues habrá que hacerla desde el punto de vista de varios objetivos:
+    • Evaluación administrativa del área de procesos electrónicos.
+    • Evaluación de los sistemas y procedimientos.
+    • Evaluación de los equipos de cómputo.
+    • Evaluación del proceso de datos, de los sistemas y de los equipos de
+    cómputo (software, hardware, redes, bases de datos, comunicaciones).
+    • Seguridad y confidencialidad de la información.
+    • Aspectos legales de los sistemas de la información
+
+REQUISITOS D E PLANEACIÓN D E LA AUDITORÍA INFORMÁTICA
+Para lograr una adecuada planeación, lo primero que se
+requiere es obtener información general sobre la
+organización y sobre la función de informática a evaluar.
+Para ello es preciso hacer una investigación preliminar y
+algunas entrevistas previas, y con base en esto planear el
+programa de trabajo, el cual deberá incluir tiempos, costos,
+personal necesario y documentos auxiliares a solicitar o
+formular durante el desarrollo de la auditoría.
+REVISIÓN PRELIMINAR
+Su objetivo es el de obtener información necesaria para que el auditor pueda
+tomar la decisión de cómo proceder en la auditoría. Al terminar la revisión
+preliminar el auditor puede optar por:
+• Diseño de la auditoría. Puede haber problemas debido a la falta de competencia
+técnica para realizar la auditoría.
+• Realizar unarevisión detallada delos controles internos delos sistemasconla
+esperanza de que se deposite la confianza en los controles de los sistemas y de
+que una serie de pruebas sustantivas puedan reducir las consecuencias.
+REVISIÓN PRELIMINAR
+• Decidir el no confiar en los controles internos del sistema.
+Existen dos razones posibles para esta decisión.
+• Primero, puede ser más eficiente desde el punto de vista de costo-
+beneficio el realizar directamente pruebas sustantivas.
+• Segundo, los controles del área de informática pueden duplicar los
+controles existentes en el área del usuario. El auditor puede decidir que
+se obtendrá un mayor costo-beneficio al dar una mayor confianza a los
+controles de compensación y revisar y probar mejor estos controles.
+REVISIÓN PRELIMINAR
+Durante la revisión preliminar se recolectan evidencias por medio de:
+• Entrevistas con el personal de la instalación,
+• La observación de las actividades en la instalación, y
+• La revisiónde la documentaciónpreliminar.
+Las evidencia se pueden recolectar por medio de:
+• Cuestionarios iniciales,
+• Entrevistas, o
+• Documentaciónnarrativa.
+Sedebeconsiderarqueésta será sólo unainformación inicial quenospermitirá
+elaborar el plan de trabajo, donde se profundizará en el desarrollo de la auditoría.
+REVISIÓN DETALLADA
+• Sus objetivos son los de obtener la información necesaria para que el auditor tenga un
+profundo entendimiento de los controles usados dentro del área informática.
+• El auditor debedecidir si debedecontinuar elaborando pruebas de consentimiento,
+con la esperanza de obtener mayor confianza por medio del sistema de control interno,
+o proceder directamente a la revisión con los usuarios (controles compensatorios), o a
+las pruebassustantivas. Enalgunoscasosel auditor puede,despuésdehacer un
+análisis detallado, decidir que con los controles internos se tiene suficiente confianza,
+yenotros casosquelos procedimientos alternos deauditoría puedenser más
+apropiados.
+REVISIÓN DETALLADA
+• Esimportante enesta fase identificar las causasdelas pérdidas existentes
+dentro de la instalación y los controles para reducir las pérdidas y los efectos
+causados por estas.Al terminar la revisión detallada el auditor debe evaluar en
+quémomentolos controles establecidos reducenlas pérdidas esperadasaun
+nivel aceptable.
+• Los métodos de obtención de información al momento de la evaluación
+detallada son los mismos usados en la investigación preliminar, y lo único que
+difiere es la profundidad con que se obtiene la información y se evalúa
+REVISIÓN DETALLADA
+• El auditor debe evaluar si los controles escogidos son
+óptimos:
+• Si provocan un sobre control.
+• Si se logra un satisfactorio nivel de control usando menos controles o
+controles menos costosos.
+• Si el auditor considera que los controles internos no son
+satisfactorios, en lugar de proceder directamente a revisar, a
+probar controles alternos o realizar pruebas sustantivas y
+procedimientos, debe señalar recomendaciones para
+mejorar los controles de los sistemas.
+E X A M E N Y EVALUACIÓN D E LA
+INFORMACIÓN
+Los auditores internos deberán obtener, analizar, interpretar y
+documentar la información para apoyar los resultados de la
+auditoría. El proceso de examen y evaluación de la información es el
+siguiente:
+
+    Se debe tener la información de todos los asuntos relacionados
+    con los objetivos y alcances de la Auditoría.
+
+    La información deberá ser suficiente, competente, relevante y útil
+    para que proporcione bases sólidas en relación con los hallazgos
+    y recomendación de la auditoría.
+
+E X A M E N Y EVALUACIÓN D E LA
+INFORMACIÓN
+
+    Los procedimientos de auditoría deberán ser elegidos con
+    anterioridad, cuando esto sea posible, modificarse cuando
+    las circunstancias lo requieran.
+
+    El proceso de recabar, analizar, interpretar y documentar la
+    información deberá supervisarse para proporcionar una
+    seguridad razonable de que la objetividad del auditor se
+    mantuvo y que las metas de la auditoría se cumplieron.
+
+    Los documentos de trabajo de la auditoría deberán ser
+    preparados por los auditores y revisados por la gerencia de
+    auditoría.
+
+E X A M E N Y EVALUACIÓN D E LA INFORMACIÓN
+• Los procedimientos de auditoría, incluyendo el empleo de las técnicas de pruebas selectivas
+y el muestreo estadístico, deberán ser elegidos con anterioridad, cuando esto sea posible, y
+ampliarse o modificarse cuando las circunstancias lo requieran.
+• El procesoderecabar, analizar, interpretar ydocumentar la información deberá supervisarse
+para proporcionar una seguridad razonable de que la objetividad del auditor se mantuvo y
+que las metas de auditoría se cumplieron.
+• Los documentos de trabajo de la auditoría deberán ser preparados por los auditores y
+revisados por la gerencia de auditoría. Estos documentos deberán registrar la información
+obtenida y el análisis realizados, y deben apoyar las bases de los hallazgos de auditoría y las
+recomendaciones que se harán.
+E X A M E N Y EVALUACIÓN D E LA INFORMACIÓN
+• Los auditores deberán reportar los resultados del trabajo de auditoría.
+• El auditor deberá discutir las conclusiones y recomendaciones en los niveles apropiados de la
+administración antes de emitir su informe final.
+• Los informes deberán ser objetivos, claros, concisos, constructivos y oportunos.
+• Los informes presentarán el propósito, alcance y resultados de la auditoría y, cuando se considere
+apropiado, contendrán la opinión del auditor.
+• Los informes pueden incluir recomendaciones para mejoras potenciales y reconocer el trabajo
+satisfactorio ylas medidascorrectivas. Lospuntosdevista delos auditados respecto alas
+conclusiones y recomendaciones pueden ser incluidos en el informe de auditoría.
+• Los auditores internos realizarán el seguimiento de las recomendaciones para asegurarse que se
+tomaron las acciones apropiadas sobre los hallazgos de auditoría reportados.
+PRUEBAS D E CONSENTIMIENTO:
+Objetivo:
+• Determinar si los CI operan como fueron diseñados para operar. El
+auditor debe determinar si los controles declarados en realidad
+existen y si en realidad trabajan confiablemente.
+P RU E BAS D E C O N T RO L E S D E L USUARIO:
+? En algunos casos el auditor puede decidir el no
+confiar en los controles internos dentro de las
+instalaciones informáticas, porque el usuario ejerce
+controles que compensan cualquier debilidad
+dentro de los CI de informática.
+PRUEBAS SUSTANTIVAS
+Objetivo:
+Obtener evidencia suficiente que permita al auditor emitir su juicio
+en las conclusiones acerca de cuando pueden ocurrir pérdidas
+materiales durante el procesamiento de la información.
+E X I S T E N O C H O PRUEBAS SUSTANTIVAS
+
+    Pruebas para identificar errores en el procesamiento o de falta de
+    seguridad o confidencialidad.
+
+    Pruebas para asegura la calidad de los datos.
+
+    Pruebas para identificar la inconsistencia de los datos.
+
+    Pruebas para comparar con los datos o contadores físicos.
+
+    Confirmación de datos con fuentes externas.
+
+    Pruebas para confirmar la adecuada comunicación.
+
+    Pruebas para determinar la falta de seguridad.
+
+    Pruebas para determinar problemas de legalidad.
+    Los pasos que involucran una auditoría en informática:
+    Realizar una investigación preliminar del área de
+    informática
+    Si el auditor determina confiar en los controles
+    internos, se realiza una investigación detallada.
+    El auditor prueba la confianza sobre aquellos
+    controles que son críticos.
+    Se realizan pruebas sustantivas de los
+    procedimientos.
+    El auditor debe dar una opinión.
+
+EVALUACIÓN D E LO S SISTEMAS
+D E A C U ER D O AL R I E S G O
+Una de las formas de evaluar la importancia que
+puede tener para la organización un
+determinado sistema es considerar el riesgo que
+implica el que no sea adecuadamente utilizado,
+la pérdida de información o bien que sea usado
+por personal ajeno a la organización.
+ALGUNOS S IS T E M A S D E APLICACIONES S ON D E
+M Á S ALTO R I E S G O QUE O T R O S DEBIDO A QUE:
+• Son susceptibles a diferentes tipos de pérdida económica.
+• Las fallas pueden impactar grandemente a la organización.
+• Los sistemas le dan a la empresa un nivel competitivo muy alto
+dentro de un mercado.
+• Sistemas de tecnología de punta.
+• Sistemas que son muy costosos de desarrollar, los cuales son
+frecuentemente sistemas complejos que pueden presentar
+muchos problemas de control.
+REQ UERIM IEN TOS D E UNA AUDITORÍA
+A nivel organizacional:
+• Objetivos a corto y largo plazo.
+• Misión,Visión y Valores.
+• Antecedentes de la empresa
+• Organigrama
+• Función de cada uno de los departamentos.
+• Relaciones entre las diversas áreas del negocio
+• Políticas Generales.
+REQ UERIM IEN TOS D E UNA AUDITORÍA
+A nivel del área de informática:
+• Objetivos a corto y largo plazos.
+• Manual de Funciones (Fichas ocupacionales).
+• Manual de políticas, reglamentos internos y lineamientos
+generales.
+• Número de personas y puestos en el área.
+• Procedimientos administrativos del área.
+• Presupuestos y costos del área.
+R E C U R S O S M A T ERIA LE S Y T É C N I C O S
+• Solicitar documentos sobre los equipos, así como el número de
+ellos, su localización y sus características (de los equipos
+instalados, por instalar y programados).
+• Estudio de viabilidad.
+• Fechas de instalación de los equipos y planes de instalación.
+• Contratos vigentes de compra, renta y servicio de mantenimiento.
+• Contratos de seguros.
+• Convenios que se tienen con otras instalaciones.
+• Configuración de los equipos y capacidades actuales y máximas.
+R E C U R S O S M A T ERIA LE S Y T É C N I C O S
+• Configuración de equipos de comunicación(redes internas y
+externas) y localización de los equipos.
+• Planes de expansión.
+• Ubicación general de los equipos.
+• Políticas de operación.
+• Políticas del uso de los equipos.
+• Políticas de seguridad física y prevención contra
+contingencias internas y externas.
+SISTEMAS
+• Descripción g eneral de los sistemas instalados y de los que estén por
+instalarse.
+• Manual de procedimientos de los sistemas.
+• Descripción genérica.
+• Diagramas de entrada, archivos, salidas.
+• Fecha de instalación de los sistemas.
+• Proyecto de instalación de nuevos sistemas.
+• Bases de datos, propietarios de la información y usuarios de la misma.
+• Procedimientos y políticas en caso de desastre.
+• Sistemas propios y/0 legalidad de los mismos.
+ANTES D E CO N C LU IR ESTA ETAPA
+NO S E OLVIDE D E
+• Estudiar hechos y no opiniones.
+• Enfocarse en las causas y no en los efectos.
+• Atender razones, no excusas.
+• No confiar en la memoria, pre g untar
+constantemente.
+• C riticar objetivamente a fondo todos los informes
+y los datos recabados.
+PERSONAL PARTICIPANTE
+• El número de ellos depende de las dimensiones de la
+organización, de los sistemas y de los equipos.
+• El personal debe estar debidamente capacitado
+(conocimiento y experiencia) en áreas especificas
+como bases de datos, hardware, software y
+comunicaciones, y con un alto sentido de moralidad.
+• Se debe contar con personas asignadas por los
+usuarios.
+Gestión de riesgo
+
+GESTIÓN D E R I E S G O
+Es el proceso de identificar, analizar y
+responder a factores de riesgo a lo largo de la
+vida de un proyecto y en beneficio de sus
+objetivos.
+La gestión de riesgos adecuada implica el
+control de posibles eventos futuros. Además, es
+proactiva, en lugar de reactiva.
+S I S T E M A S D E G E S TIÓN D E R I E S G O S
+Los sistemas de gestión de riesgos están diseñados para
+hacer más que solo identificar el riesgo. El sistema
+también debe poder cuantificar el riesgo y predecir su
+impacto en el proyecto.
+En consecuencia, el resultado es un riesgo aceptable o
+inaceptable. La aceptación o no aceptación de un riesgo
+depende, a menudo, del nivel de tolerancia del g erente
+de proyectos por el riesgo.
+S I S T E M A S D E G E S TIÓN D E R I E S G O S
+Si la gestión de riesgos es configurada como un proceso
+continuo y disciplinado de la identificación y resolución
+de un problema, entonces el sistema complementará
+con facilidad otros sistemas. Esto incluye la
+org anización, la planificación, el presupuesto y el control
+de costos. Las sorpresas disminuirán porque el énfasis
+ahora será una gestión proactiva en lugar de una
+reactiva.
+LA GESTIÓN D E R I E S G O S : UN PR O C E S O
+CONTINUO
+Una vez que el equipo identifica todos los
+posibles riesgos que pueden perjudicar el
+proceso de la información, debe escoger los
+que tienen más probabilidades de suceder.
+Basará su decisión en las experiencias pasadas
+respecto de la probabilidad de ocurrencia, su
+intuición, las lecciones aprendidas, los datos
+históricos, entre otros.
+LA GESTIÓN D E R I E S G O S : UN PR O C E S O
+CONTINUO
+El punto crítico es que la gestión de riesgos
+sea un proceso continuo y como tal se
+realice no solo al inicio, sino de manera
+continua a lo largo de la vida del proyecto.
+R ES P UES T A A L O S R I E S G O S ENCONTRADOS
+Prevención: Eliminación de una amenaza específica, a menudo al
+eliminar la causa.
+Mitigación: Reducción del valor monetario estimado de un riesgo al
+reducir la probabilidad de ocurrencia.
+Aceptación: Aceptar las consecuencias del riesgo. Con frecuencia, esto
+se cumple al desarrollar un plan de contingencia para ejecutar si el
+riesgo llega a ocurrir.
+¿ P O R Q U É EMPLEAR LA GESTIÓN DE
+RIESGOS?
+El propósito de la gestión de riesgos es la siguiente:
+• Identificar posibles riesgos
+• Reducir o dividir los riesgos
+• Proporcionar una base racional para la toma de decisiones en relación
+con todos los riesgos
+• Planificar soluciones
+¿ P O R Q U É EMPLEAR LA GESTIÓN DE
+RIESGOS?
+Evaluar y gestionar riesgos es la mejor herramienta frente a las catástrofes en los
+proyectos. Al evaluar el plan para potenciales problemas y al desarrollar estrategias
+para abordarlos, mejorarán las probabilidades de éxito del proyecto.
+Asimismo, la gestión de riesgos continua logrará lo siguiente:
+Garantizar que los riesgos de mayor prioridad sean gestionados de forma agresiva y
+que todos los riesgos sean gestionados, cuidando los costos, a lo largo del proyecto.
+Proporcionar gestión en todos los niveles con la información necesaria para tomar
+decisiones informadas en problemas críticos para el éxito del proyecto.
+E L P R O C E S O D E ANÁLISIS D E R I E S G O S
+El proceso de análisis de riesgo es
+esencialmente un proceso de solución de
+problemas de calidad. Las herramientas de
+calidad y de evaluación se utilizan para
+determinar y priorizar riesgos de evaluación y
+resolución.
+E L P R O C E S O D E ANÁLISIS D E R I E S G O S
+El proceso de análisis de riesgos es el siguiente:
+Identificar del riesgo:
+Este paso es la lluvia de ideas. Al revisar la lista de posibles fuentes de riesgo,
+así como la experiencia y el conocimiento del equipo de proyectos, se
+identifican todos los potenciales riesgos.
+Al utilizar un instrumento de evaluación, los riesgos son categorizados y
+priorizados. El número de riesgos identificados a menudo excede la capacidad
+de tiempo del equipo de proyectos para analizar y desarrollar contingencias. El
+proceso de priorización ayuda a gestionar aquellos riesgos que tienen un alto
+impacto y una alta probabilidad de ocurrencia.
+E L P R O C E S O D E ANÁLISIS D E R I E S G O S
+Evaluar los riesgos
+Con frecuencia, la solución de problemas tradicional transita de la identificación
+de problemas a la solución de problemas. Sin embargo, antes de intentar
+determinar cómo gestionar mejor los riesgos, el equipo de proyectos debe
+identificar los orígenes de tales riesgos.
+Desarrollo de respuestas frente al riesgo
+Ahora el equipo de proyectos está listo para el proceso de evaluación de
+posibles remedios para gestionar el riesgo o tal vez evitar que el riesgo ocurra.
+D E S A R R O LLO D E UN PLAN D E CONTINGENCIA O
+MEDIDAS PREVENTIVAS PARA E L R I E S G O
+• El equipo convertirá en tareas las ideas que fueron identificadas para
+reducir o eliminar las probabilidades de riesgo.
+• Aquellas tareas identificadas para gestionar el riesgo, si ocurren, se
+desarrollan en pequeños planes de contingencia que pueden dejarse
+de lado. Si el riesgo ocurriese, se aplican las tareas identificadas,
+reduciéndose así la probabilidad de tener que gestionar una crisis.
+AUDITORÍA INTERNA Y GESTIÓN DE
+RIESGOS
+Son dos conceptos que van de la mano. La auditoría interna debe evaluar y
+contribuir a la gestión de riesgos, aportando así a la mejora de los procesos de
+control, utilizando un enfoque sistemático y disciplinado. La auditoría interna es
+una actividad que suele proporcionar independencia a los gestores del sistema
+de gestión de riesgos, frente a la Alta Dirección. Esto garantiza que los riesgos
+comerciales de mayor impacto, se traten de forma adecuada y así mismo, el
+sistema de controles internos de la organización opere de forma efectiva y
+eficiente. Esto explica de manera precisa la importancia de la relación entre
+auditoría interna y gestión de riesgos en un sistema de gestión basado en la
+norma ISO 31000.
+AUDITORÍA INTERNA Y GESTIÓN DE
+RIESGOS
+Auditoría interna y gestión de riesgos, son procesos complementarios:
+apoyando el proceso de gestión de riesgos, la auditoría interna verifica que:
+
+    Se aplique el proceso de gestión de riesgos en forma apropiada y que
+    todos los elementos del proceso sean adecuados y suficientes.
+
+    El proceso de gestión de riesgos está en consonancia con las necesidades
+    estratégicas y la política de la organización.
+
+    Todos los riesgos significativos han sido identificados y están siendo
+    tratados.
+
+AUDITORÍA INTERNA Y GESTIÓN DE
+RIESGOS
+Auditoría interna y gestión de riesgos, son procesos complementarios:
+apoyando el proceso de gestión de riesgos, la auditoría interna verifica que:
+
+    Los controles son diseñados e implementados de forma correcta, con el fin
+    de mantener los objetivos del sistema de gestión de riesgos.
+
+    Los controles críticos son adecuados y efectivos.
+
+    Se están ejecutando planes para mejorar la gestión de riesgos.
+
+    Existe un progreso apropiado, según lo previsto en el plan de gestión de
+    riesgos.
+
+GESTIÓN D E R I E S G O S Y AUDITORIA DEL
+OUTSOURCING D E TI
+Es fundamental el hecho de que una empresa tenga la habilidad para reducir
+esos riesgos de tal manera que sean insignificantes para la empresa. Para ello,
+en un proceso de Outsourcing, se debería de tener en cuenta las siguientes
+consideraciones
+Revisar y evaluar los procesos de la compañía para monitorear la calidad de
+las actividades del Outsourcing. Habrá que determinar cómo se van a
+monitorear los cumplimientos fundamentales del contrato. Es primordial definir
+en el contrato las expectativas y los objetivos a cumplir, ya que serían
+afectadas tanto la disponibilidad, eficiencia y eficacia de las operaciones
+contratadas como la seguridad de los sistemas y de los datos.
+GESTIÓN D E R I E S G O S Y AUDITORIA DEL
+OUTSOURCING D E TI
+Hay que asegurarse de plasmar los siguientes temas en el contrato:
+• Disponibilidad y tiempo de actividad esperado.
+• Rendimiento esperado del servicio.
+• Tiempo de respuesta del proveedor.
+• Tiempo de resolución de problemas.
+• Requisitos tanto de cumplimientos de los servicios como de seguridad.
+• Métricas e indicadores de rendimiento.
+GESTIÓN D E R I E S G O S Y AUDITORIA DEL
+OUTSOURCING D E TI
+Asegura de que haya procesos adecuados de recuperación de desastres
+para garantizar la continuidad del negocio en caso de un desastre en su
+proveedor.
+La misma empresa deberá tener también procedimientos
+documentados sobre la forma en que se recuperarán sus datos en caso
+de desastre, donde se incluirán procesos de notificación y escalamiento,
+cualquier transferencia necesaria entre la empresa y el proveedor
+durante la recuperación, y posibles soluciones. También deberá
+especificarse un plan de contingencia.
+GESTIÓN D E R I E S G O S Y AUDITORIA DEL
+OUTSOURCING D E TI
+Revisar y evaluar los planes de la compañía en caso de una terminación
+esperada o inesperada de la relación de subcontratación. Para que esto no
+ocurra, la empresa debería exigir al proveedor que le entregue una copia de
+los datos periódicamente. Los sistemas desarrollados serán flexibles y fáciles
+de implementar en diferentes entornos.
+Revisar los procesos del proveedor para garantizar la calidad del personal y
+minimizar el impacto de la rotación.
+C H E C K LIST PARA AUDITAR O PERACION ES
+Y S E R V I C I O S D E OUTSOURCING
+
+    Revisar los contratos aplicables para asegurar que identifiquen
+    adecuadamente todos los productos entregables, requisitos y
+    responsabilidades pertinentes al compromiso de su empresa.
+
+    Revisar y evaluar el proceso utilizado para seleccionar el proveedor de
+    outsourcing.
+
+    Determine cómo sus datos se segregan de los datos de otros clientes.
+
+    Revisar y evaluar el uso de la encriptación para proteger los datos
+    almacenados de la compañía.
+
+    Determinar cómo los empleados y los proveedores acceden a sus sistemas
+    y cómo se controlan los datos.
+
+C H E C K LIST PARA AUDITAR O PERACION ES
+Y S E R V I C I O S D E OUTSOURCING
+
+    Revisar y evaluar los procesos para controlar el acceso lógico de los no
+    empleados a su red y sistemas internos.
+
+    Asegúrese de que los datos almacenados en las ubicaciones del proveedor
+    estén protegidos de acuerdo con sus políticas internas.
+
+    Revisar y evaluar los controles para prevenir, detectar y reaccionar ante los
+    ataques.
+
+    Determinar cómo se realiza la gestión de la identidad para los hosts
+    basados en Cloud Computing.
+
+    Determinar cómo el cumplimiento de las leyes de privacidad aplicables y
+    otras regulaciones es asegurado.
+
+C H E C K LIST PARA AUDITAR O PERACION ES
+Y S E R V I C I O S D E OUTSOURCING
+
+    Revisar y evaluar los procesos para asegurar que la empresa cumple con
+    licencias de software aplicables para cualquier software.
+
+    Garantizar que las prácticas de retención y destrucción para los datos
+    almacenados fuera del sitio cumplen con la política interna.
+
+    Revisar y evaluar la seguridad física del proveedor.
+
+    Revisar y evaluar los procesos de su empresa para monitorear la calidad de
+    operaciones externalizadas. Determinar cómo se monitorea el
+    cumplimiento de los SLAs.
+
+    Asegurar que existan procesos adecuados de recuperación ante desastres.
+
+C H E C K LIST PARA AUDITAR O PERACION ES
+Y S E R V I C I O S D E OUTSOURCING
+
+    Si los servicios de TI se han obtenido mediante Outsourcing, revise los
+    procesos del proveedor de servicios para garantizar la calidad del personal
+    y minimizar el impacto del volumen de negocios.
+
+    Revisar y evaluar el derecho y la capacidad de su empresa de obtener
+    información de la empresa proveedora.
+
+    Revisar los requisitos para la notificación de violación de seguridad.
+    Garantizar que los requisitos están claramente definidos respecto a Cuándo
+    y cómo el proveedor debe notificar a su empresa en caso de una brecha de
+    seguridad y que su empresa tenga una respuesta claramente definida
+    procedimientos cuando reciban dicha notificación.
